@@ -1,0 +1,6 @@
+
+# hadoop
+- src:     https://github.com/indigo-dc/ansible-role-hadoop.git
+  name:    hadoop
+  version: eedc5f44768c649d2d2186b832a7a981230cc2be
+

@@ -1,0 +1,10 @@
+---
+- hosts: all
+  user: vagrant
+  become: true
+  vars:
+    user: vagrant
+    group: vagrant
+  pre_tasks:
+  roles:
+    - hadoop
